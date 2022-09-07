@@ -1,4 +1,1 @@
-initial new repository
-This is an additional line.
-Added this line in the other branch.
 BlaBlaBlaBla
